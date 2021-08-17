@@ -1,0 +1,11 @@
+# Pycharm Configuration Files
+.idea
+
+# Python Environment
+venv
+__pycache__
+
+# Pyinstall build
+build
+dist
+*.spec
